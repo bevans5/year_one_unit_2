@@ -1,3 +1,7 @@
+# Paper
+
+![shiba dancing](https://i.kym-cdn.com/photos/images/original/001/357/827/aae.gif)
+
 # Overview
 ### To prepare for your IA, you will need to design a program to create a solution for a client. You must use functional programming, and your solution must contain at least two functions. Note, if you wish for a challenge you may use OOP.
 
